@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_orderitem_order_items",
+  "info": {
+    "displayName": "Order Item",
+    "icon": "envelop"
+  },
+  "options": {},
+  "attributes": {
+    "Quantity": {
+      "type": "integer"
+    }
+  }
+}
